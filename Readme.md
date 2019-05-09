@@ -9,4 +9,4 @@ Project Diamond ialah gim fighting sport dimana terdapat dua tim yang berusaha u
 Teknologi yang digunakan :
 TCP+UDP
 Steam API
-Matchmaking & Lobbies
+Lobbies
